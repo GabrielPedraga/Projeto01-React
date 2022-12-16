@@ -1,0 +1,13 @@
+.main h1{
+  color: crimson;
+}
+
+.main h4,p{
+  color: dimgrey;
+  font-weight: lighter;
+}
+
+.main img{
+  padding-right: 70%;
+  
+}
